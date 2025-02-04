@@ -22,3 +22,5 @@ public class Main {
         scanner.close();
     }
 }	 
+
+The output will be addition of two numbers
