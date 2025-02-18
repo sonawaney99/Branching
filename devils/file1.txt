@@ -1,1 +1,7 @@
 This is for source tree
+
+2.how to download 
+
+3. how to install
+
+4.how to integrate bothsource tree & github
